@@ -2,7 +2,7 @@
 
 
 
-function  countDown()
+function countDown()
 {
     $x = rand(1, 20);
     try {
